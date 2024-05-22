@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppLoops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66233b3ad6de71298a50e46c7467f834480ef26a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce46a55d27e0b1036a0ee303549c5edadc6f3b2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppLoops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppLoops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
