@@ -1,0 +1,15 @@
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.AssemblyInfoInputs.cache
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.AssemblyInfo.cs
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.csproj.CoreCompileInputs.cache
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.sourcelink.json
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net8.0\ConsoleAppLoops.exe
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net8.0\ConsoleAppLoops.deps.json
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net8.0\ConsoleAppLoops.runtimeconfig.json
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net8.0\ConsoleAppLoops.dll
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net8.0\ConsoleAppLoops.pdb
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.dll
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\refint\ConsoleAppLoops.dll
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.pdb
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ConsoleAppLoops.genruntimeconfig.cache
+C:\Users\anana\source\repos\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net8.0\ref\ConsoleAppLoops.dll
